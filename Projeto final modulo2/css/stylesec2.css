@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.sec2{
+flex-wrap: wrap;
+flex-direction: column;
+display: flex;
+align-items: center;
+padding: 0px 0px 96px;
+gap: 64px;
+height: 288px;
+/* 
+PC CASA
+width: 1340px;
+height: 288px;
+*/
+}
+.cont1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 250px;
+height: 182px;
+}
+.h1num{
+    color: #8E2424;
+    font-size: 60px;
+}
+.minitit{
+    font-weight: bold;
+}
+.ptit{
+    color: #667085;
+}

@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.sec7{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #F9FAFB;
+    padding: 5%;
+}
+.h1sec7{
+    padding: 1%;
+    font-size: 36px;
+}
+.p1sec7{
+    font-size: 20px;
+    color: #667085;
+    padding: 1%;
+}
+.p2sec7{
+    color: #98A2B3;
+    font-size: 16px;
+    padding: 2%;
+}
+.buttonsec7{
+    font-size: 16px;
+    background-color: #8E2424;
+    border-radius: 10px;
+    color: #F9FAFB;
+    border-color: #8E2424;
+    height: 48px;
+    width: 90px;
+}
+.inputsec7{
+    border-radius: 15px;
+    width: 360px;
+    height: 48px;
+    font-size: 16px;
+    border-color: #98A2B3;;
+}
+.caixasec7{
+    padding: 1.5%;
+}
+.buttonsec7:hover{
+    background-color: #F9FAFB;
+    color: #8E2424;
+    font-weight: bold;
+}
