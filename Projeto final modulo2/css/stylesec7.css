@@ -38,7 +38,8 @@
     width: 360px;
     height: 48px;
     font-size: 16px;
-    border-color: #98A2B3;;
+    border-color: #98A2B3;
+    padding-left: 1%;
 }
 .caixasec7{
     padding: 1.5%;
@@ -47,4 +48,7 @@
     background-color: #F9FAFB;
     color: #8E2424;
     font-weight: bold;
+}
+::placeholder{
+    padding-left: 1%;
 }
