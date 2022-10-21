@@ -1,6 +1,7 @@
 *{
     margin: 0%;
-    padding: 0%; 
+    padding: 0%;
+    font-family: 'Inter'; 
 }
 .sec1{
 display: flex;
@@ -9,11 +10,6 @@ align-items: center;
 padding: 96px 0px;
 gap: 24px;
 height: 288px;
-/*
-PC CASA
-width: 1340px;
-height: 200px;
-*/
 background: #FFFFFF;
 }
 .sobre{
